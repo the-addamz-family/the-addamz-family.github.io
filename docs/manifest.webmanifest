@@ -1,9 +1,9 @@
 {
-  "name": "corporate-site",
-  "short_name": "corporate-site",
+  "name": "小寺板金工業",
+  "short_name": "小寺板金工業",
   "description": "",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "ja-jp",
   "display": "standalone",
   "orientation": "any",
   "start_url": "/?homescreen=1",
